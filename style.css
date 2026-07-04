@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+body{
+  margin: 0;
+  min-height: 100vh;
+  background-image: url("./assets/fundo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#page {
+  width: 800px;
+  padding: 24px;
+  background-color: #F0E8C6;
+  margin: 24px auto;
+  border-radius: 24px;
+
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+}
